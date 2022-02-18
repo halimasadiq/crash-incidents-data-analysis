@@ -8,4 +8,4 @@
  - Hypothesis Testing
  - Prediction using linear regression model
 
-Findings included in the report.
+Findings included in the attached report.
